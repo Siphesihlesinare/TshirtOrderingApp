@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+            x:Class="TShirtOderingApp.Views.DetailsPage" BackgroundColor="White">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Grid Margin="0,0,0,0" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+
+                </Grid.RowDefinitions>
+
+
+
+                <Image Source="col1.jpg"  Grid.Column="0"  Grid.Row="0" Grid.ColumnSpan="2" BackgroundColor="White" />
+                <Label Text="{Binding Name}" Grid.Column="0" Grid.Row="0" Margin="0,200,0,0" FontSize="Large" TextColor="Black" FontAttributes="Bold"/>
+                <Label Text=" Address:" Grid.Column="0" Grid.Row="0" FontSize="Medium" TextColor="Black" Margin="0,240,0,0"/>
+                <Label Text="{Binding Address}" Grid.Column="0" Grid.Row="0" FontSize="Medium" TextColor="Black" Margin="80,240,0,0"/>
+               
+
+                <Image Source="legacy.jpg" Grid.Column="0" Grid.Row="1"  BackgroundColor="White"/>
+               
+                <Label Text="Size:" Grid.Column="1" Grid.Row="1"  Margin="20,35,0,0" TextColor="Black" />
+                <Label Text="{Binding Size}" Grid.Column="1" Grid.Row="1"  Margin="55,35,0,0" TextColor="Black" />
+                <Label Text="Color:" Grid.Column="1" Grid.Row="1"  Margin="20,70,0,0"   TextColor="Black" />
+                <Label Text="{Binding Color}" Grid.Column="1" Grid.Row="1"  Margin="59,70,0,0" TextColor="Black" />
+                <Label Text="Gender:" Grid.Column="1" Grid.Row="1"  Margin="20,105,0,0" TextColor="Black" />
+                <Label Text="{Binding Gender}" Grid.Column="1" Grid.Row="1"  Margin="70,105 ,0,0" TextColor="Black" />
+                <Label Text="Date:" Grid.Column="1" Grid.Row="1"  Margin="20,140,0,0"  TextColor="Black"/>
+                <Label Text="{Binding Date}" Grid.Column="1" Grid.Row="1"  Margin="60,140,0,0"  TextColor="Black"/>
+               
+
+                <!--<Button Text="place Order" Clicked="Button_Clicked" CornerRadius="20" Scale=".5"   Grid.Column="1" Grid.Row="1" Margin="-50,200,0,0"/>-->
+                <Button Text="View Map"  TextColor="Black"  Grid.Column="1" Grid.Row="1" Margin="110,130,0,0"  Scale=".5"  />
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+    
+    
