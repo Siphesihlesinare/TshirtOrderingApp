@@ -8203,11 +8203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarin\\TShirtOderingAppSln\\TshirtWebApp\\TshirtWebApp.csproj",
+      "projectUniqueName": "C:\\Xamarin\\TshirtOrderingApp\\TshirtWebApp\\TshirtWebApp.csproj",
       "projectName": "TshirtWebApp",
-      "projectPath": "C:\\Xamarin\\TShirtOderingAppSln\\TshirtWebApp\\TshirtWebApp.csproj",
+      "projectPath": "C:\\Xamarin\\TshirtOrderingApp\\TshirtWebApp\\TshirtWebApp.csproj",
       "packagesPath": "C:\\Users\\Siphesihle.Sinare\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarin\\TShirtOderingAppSln\\TshirtWebApp\\obj\\",
+      "outputPath": "C:\\Xamarin\\TshirtOrderingApp\\TshirtWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -37,10 +37,11 @@
                 <Label Text="{Binding Gender}" Grid.Column="1" Grid.Row="1"  Margin="70,105 ,0,0" TextColor="Black" />
                 <Label Text="Date:" Grid.Column="1" Grid.Row="1"  Margin="20,140,0,0"  TextColor="Black"/>
                 <Label Text="{Binding Date}" Grid.Column="1" Grid.Row="1"  Margin="60,140,0,0"  TextColor="Black"/>
-               
+
 
                 <!--<Button Text="place Order" Clicked="Button_Clicked" CornerRadius="20" Scale=".5"   Grid.Column="1" Grid.Row="1" Margin="-50,200,0,0"/>-->
-                <Button Text="View Map"  TextColor="Black"  Grid.Column="1" Grid.Row="1" Margin="110,130,0,0"  Scale=".5"  />
+                <Button Text="View Map"  Clicked="Button_Clicked_1" TextColor="Black"  Grid.Column="1" Grid.Row="1" Margin="100,130,0,0"  Scale=".5"  FontAttributes="Bold" FontSize="Large" BackgroundColor="White"/>
+                <Button Text="Place Order" Clicked="Button_Clicked"  Margin="-50,130,0,0"   Scale=".4"  Grid.Column="1" Grid.Row="1" FontAttributes="Bold" FontSize="Large" BackgroundColor="White"/>
             </Grid>
         </StackLayout>
     </ContentPage.Content>

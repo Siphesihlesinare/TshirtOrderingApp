@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp.Android\\TShirtOderingApp.Android.csproj": {}
+    "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp.Android\\TShirtOderingApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp.Android\\TShirtOderingApp.Android.csproj": {
+    "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp.Android\\TShirtOderingApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp.Android\\TShirtOderingApp.Android.csproj",
+        "projectUniqueName": "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp.Android\\TShirtOderingApp.Android.csproj",
         "projectName": "TShirtOderingApp.Android",
-        "projectPath": "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp.Android\\TShirtOderingApp.Android.csproj",
+        "projectPath": "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp.Android\\TShirtOderingApp.Android.csproj",
         "packagesPath": "C:\\Users\\Siphesihle.Sinare\\.nuget\\packages\\",
-        "outputPath": "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp.Android\\obj\\",
+        "outputPath": "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj": {
-                "projectPath": "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj"
+              "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj": {
+                "projectPath": "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj": {
+    "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj",
+        "projectUniqueName": "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj",
         "projectName": "TShirtOderingApp",
-        "projectPath": "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj",
+        "projectPath": "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj",
         "packagesPath": "C:\\Users\\Siphesihle.Sinare\\.nuget\\packages\\",
-        "outputPath": "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp\\obj\\",
+        "outputPath": "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

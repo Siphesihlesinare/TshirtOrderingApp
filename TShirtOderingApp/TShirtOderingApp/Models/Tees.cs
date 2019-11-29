@@ -15,5 +15,6 @@ namespace TShirtOderingApp
         public  string Color { get; set; }
         public string Address { get; set; }
         public DateTime Date { get; set; }
+        public bool Status { get; set; }
     }
 }

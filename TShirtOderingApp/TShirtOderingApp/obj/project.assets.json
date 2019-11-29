@@ -742,11 +742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj",
+      "projectUniqueName": "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj",
       "projectName": "TShirtOderingApp",
-      "projectPath": "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj",
+      "projectPath": "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp\\TShirtOderingApp.csproj",
       "packagesPath": "C:\\Users\\Siphesihle.Sinare\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarin\\TShirtOderingAppSln\\TShirtOderingApp\\TShirtOderingApp\\obj\\",
+      "outputPath": "C:\\Xamarin\\TshirtOrderingApp\\TShirtOderingApp\\TShirtOderingApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
