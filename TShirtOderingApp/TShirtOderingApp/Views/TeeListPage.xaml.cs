@@ -36,14 +36,18 @@ namespace TShirtOderingApp.Views
 
         private async void OnListItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
-            if (e.SelectedItem != null)
+            //if (e.SelectedItem != null)
 
-            {
-                await Navigation.PushAsync(new DetailsPage
-                {
-                    BindingContext = e.SelectedItem as Tees
-                });
-            }
+            //{
+            //    await Navigation.PushAsync(new DetailsPage
+            //    {
+            //        BindingContext = e.SelectedItem as Tees
+            //    });
+            //}
+
+            var OneItem = e.SelectedItem as Tees;
+
+            await Navigation.PushAsync(new DetailsPage(OneItem));
         }
 
         private void Button_Clicked(object sender, EventArgs e)

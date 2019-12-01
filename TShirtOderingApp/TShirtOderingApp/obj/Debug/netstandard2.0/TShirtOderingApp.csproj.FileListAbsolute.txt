@@ -35,7 +35,6 @@ C:\Xamarin\TshirtOrderingApp\TShirtOderingApp\TShirtOderingApp\bin\Debug\netstan
 C:\Xamarin\TshirtOrderingApp\TShirtOderingApp\TShirtOderingApp\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Xamarin\TshirtOrderingApp\TShirtOderingApp\TShirtOderingApp\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
 C:\Xamarin\TshirtOrderingApp\TShirtOderingApp\TShirtOderingApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
-C:\Xamarin\TshirtOrderingApp\TShirtOderingApp\TShirtOderingApp\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
 C:\Xamarin\TshirtOrderingApp\TShirtOderingApp\TShirtOderingApp\obj\Debug\netstandard2.0\Views\TeeListPage.xaml.g.cs
 C:\Xamarin\TshirtOrderingApp\TShirtOderingApp\TShirtOderingApp\obj\Debug\netstandard2.0\TShirtOderingApp.AssemblyInfoInputs.cache
 C:\Xamarin\TshirtOrderingApp\TShirtOderingApp\TShirtOderingApp\obj\Debug\netstandard2.0\TShirtOderingApp.AssemblyInfo.cs
